@@ -3,7 +3,9 @@
 
 ![](resources/image8.gif)
 
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+Large Language Models (LLMs) have taken the world by storm, revolutionizing the fields of artificial intelligence and natural language processing. Their remarkable ability to generate human-like text and understand complex language patterns has made them indispensable across various applications, from conversational agents to creative writing aids. This transformative technology has prompted an explosion of research and development, fueling innovation and driving new possibilities in how we interact with machines and process information.
+
+In response to this surge of interest, we have compiled a comprehensive list of resources to support further exploration and development in the realm of LLMs. This curated selection includes seminal papers that provide insights into the workings and advancements of LLMs, with a particular emphasis on ChatGPT. Additionally, we offer an overview of frameworks designed for training LLMs, tools for their deployment, and a range of courses and tutorials that cater to both beginners and experts. Furthermore, the compilation features publicly available LLM checkpoints and APIs, allowing practitioners to leverage cutting-edge models and integrate them into their own projects. Whether you're a researcher, developer, or enthusiast, this resource hub is designed to facilitate a deeper understanding and more effective use of LLMs.
 
 ## Trending LLM Projects
 
